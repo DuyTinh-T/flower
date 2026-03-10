@@ -227,7 +227,7 @@ function EnvelopeOpen({ onClick }: { onClick: () => void }) {
               marginBottom: 8,
             }}
           >
-            Happy 8/3
+            Happy Birthday
           </h1>
           <h2
             className="italic"
@@ -479,7 +479,7 @@ function FullMessage() {
             Phương Anh của anh 💖
           </p>
           <p className="mb-2">
-            Nhân ngày 8/3 đặc biệt này 🌹, anh chỉ muốn ngồi lại một chút để viết cho em vài dòng từ tận đáy lòng mình.
+            Nhân ngày sinh nhật đặc biệt này 🎂🎉, anh chỉ muốn ngồi lại một chút để viết cho em vài dòng từ tận đáy lòng mình.
           </p>
           <p className="mb-2">
             Cảm ơn em vì đã đến bên anh, nhẹ nhàng nhưng đủ để làm cả thế giới của anh thay đổi ✨. Từ khi có em, những ngày bình thường cũng trở nên đặc biệt, những lúc mệt mỏi cũng có lý do để cố gắng hơn 💪.
@@ -541,7 +541,6 @@ function FullMessage() {
                   target.style.display = "none";
                 }}
               />
-              <span style={{ fontSize: 32, position: "relative", zIndex: 0 }}>💕</span>
             </div>
             {/* Small heart bottom of polaroid */}
             <p style={{ textAlign: "center", marginTop: 4, fontSize: 13, color: "#c06080" }}>♡</p>
