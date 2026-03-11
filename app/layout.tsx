@@ -16,8 +16,8 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Happy 8/3 - Phương Anh 💖",
-  description: "Thiệp chúc mừng 8/3 đặc biệt dành cho Phương Anh",
+  title: "Happy Birthday - Phương Anh 💖",
+  description: "Thiệp chúc mừng sinh nhật đặc biệt dành cho Phương Anh",
 };
 
 export default function RootLayout({
